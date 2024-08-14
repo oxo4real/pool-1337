@@ -1,0 +1,5 @@
+- check if map is valid.
+- pars input.
+- find biggest square.
+- replace charachters in the grid.
+- print grid.
